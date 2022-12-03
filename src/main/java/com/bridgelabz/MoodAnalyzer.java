@@ -1,10 +1,8 @@
 package com.bridgelabz;
 
 public class MoodAnalyzer {
-    public String message;
-
-    //Parameterized Constructor
-    public MoodAnalyzer(String message) {
+     //Parameterized Constructor
+     public MoodAnalyzer(String message) {
         this.message = message;
     }
 
@@ -22,3 +20,4 @@ public class MoodAnalyzer {
         }
     }
 }
+    
